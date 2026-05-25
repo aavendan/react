@@ -1,3 +1,9 @@
+---
+title: React y MUI - Introducción
+layout: home
+nav_order: 2
+---
+
 # React y MUI - Introducción
 
 React: Inicialización del proyecto
