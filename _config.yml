@@ -4,25 +4,5 @@ theme: just-the-docs
 
 url: https://aavendan.github.io/react
 
-callouts:
-  highlight:
-    title: Para recordar
-    color: yellow
-  important:
-    title: Importante
-    color: blue
-  new:
-    title: Información
-    color: green
-  note:
-    title: Nota
-    color: purple
-  warning:
-    title: Advertencia
-    color: red
-  definition:
-    title: Definición
-    color: cyan
-
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
