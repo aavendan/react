@@ -9,11 +9,11 @@ nav_order: 2
 React: Inicialización del proyecto
 ----------------------------------
 
-.. sidebar:: 
+{: .highlight }
 
-   React implementa la técnica web de desarrollo :term:`Client Side Rendering (CSR)` donde el navegador carga archivos JavaScript, renderiza la página en el lado del cliente y envía un documento HTML completo al navegador para construir interfaces de usuario. 
+>   React implementa la técnica web de desarrollo **Client Side Rendering (CSR)** donde el navegador carga archivos JavaScript, renderiza la página en el lado del cliente y envía un documento HTML completo al navegador para construir interfaces de usuario. 
 
-1. Explore la documentación de `React <https://react.dev/>`_ para comprender los conceptos básicos de esta biblioteca.
+1. Explore la documentación de [React](https://react.dev/) para comprender los conceptos básicos de esta biblioteca.
 2. Cree un proyecto de React utilizando `Vite <https://vitejs.dev/guide/#scaffolding-your-first-vite-project>`_.
 
    a) Dentro de la carpeta de su proyecto, abra la terminal y cree un nuevo proyecto de Vite con el siguiente comando:
